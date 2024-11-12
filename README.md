@@ -4,6 +4,8 @@ Hi there 👋
 - 🌱 I’m currently refreshing my knowledge on Hyperscaler Cloud platforms, DevOps, Automation and Infrastructure as Code
 - 📫 How to reach me: there is a contact form on the website 📧
 
+Thanks for visiting!
+
 <!--
 **jacarty/jacarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
