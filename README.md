@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently working on refreshing my [website](https://jamescarty.co.uk) and adding learning-based project content 
+- 🔭 I’m currently working on updating my [website](https://jamescarty.co.uk) and adding learning-based project content 
 - 🌱 I’m currently refreshing my knowledge on Hyperscaler Cloud platforms, DevOps, Automation and Infrastructure as Code
 - 📫 How to reach me: there is a contact form on the website 📧
 
