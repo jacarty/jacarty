@@ -1,7 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently working on updating my [website](https://jamescarty.co.uk) and adding learning-based project content 
-- 🌱 I’m currently refreshing my knowledge on Hyperscaler Cloud platforms, DevOps, Automation and Infrastructure as Code
+- 🌱 I’m currently refreshing my knowledge on Application Development, Cloud platforms, Security, Automation and Infrastructure as Code - i.e. DevOps & DevSecOps
 - 📫 How to reach me: there is a contact form on the website 📧
 
 Thanks for visiting!
