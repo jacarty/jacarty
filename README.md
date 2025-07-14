@@ -1,7 +1,8 @@
 Hi there 👋
 
-- 🌱 I’m currently refreshing my knowledge on Application Development, Cloud platforms, Security, Automation and Infrastructure as Code - i.e. DevOps & DevSecOps
-- 📫 How to reach me: there is a contact form on the website 📧
+- 🌱 I'm continually deepening my expertise in Application Development, Cloud, Security, Automation/Infra-as-Code; essentially the full DevOps & DevSecOps spectrum
+- 💬 Feel free to ask me about cloud security, the challenges organizations face, or anything related to securing cloud-native environments
+- 📫 How to reach me: easiest is to add / message me on LinkedIn 
 
 Thanks for visiting!
 
