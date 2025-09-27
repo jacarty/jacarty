@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🌱 I'm continually deepening my expertise in Application Development, Cloud, Security, Automation/Infra-as-Code; essentially the full DevOps & DevSecOps spectrum
+- 🌱 I'm continually tinkering wth Application Development, Cloud, Security, Automation/Infra-as-Code; essentially the full DevOps & DevSecOps spectrum
 - 💬 Feel free to ask me about cloud security, the challenges organizations face, or anything related to securing cloud-native environments
 - 📫 How to reach me: easiest is to add / message me on LinkedIn 
 
